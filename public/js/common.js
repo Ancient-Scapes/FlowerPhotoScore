@@ -1,5 +1,6 @@
 function getFileSize(file_size)
 {
+ // test
  var str;
 
  // 単位
